@@ -69,7 +69,6 @@ public class Stack {
             totalElementos++;
             novo.prox = topo;
             topo = novo;
-            System.out.println(this.size());
         }
     }
 //------------------------------------------------------------------------------
